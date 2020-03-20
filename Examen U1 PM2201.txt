@@ -1,0 +1,32 @@
+Examen U1:
+
+Al alumno mas próximo a la puerta le toca el ejercicio 1, al siguiente alumno el ejercicio 2, luego al siguiente el ejercicio 1, y así sucesivamente.
+
+Ejercicio 1. Crear app para convertir de grados centigrados a fahrenheit o viceversa, dependiendo la opción seleccionada. Una vez realizada la conversión se debe mostrar el resultado y una imagen dependiendo el siguiente rango de grados centigrados:
+De 10° a 25° templado.jpg
+Menos de 10° frio.jpg
+Mas de 25° caliente.jpg
+
+Ejercicio 2. Crear app para calcular el indice de masa corporal (IMC). Se debe capturar la masa (en kilogramos) y la estatura (en metros) y al presionar un botón (Button) utilizar la formula: IMC = masa / (estatura * estatura). Una vez realizada la operación se debe mostrar el resultado y una imagen dependiendo la siguiente categoría del IMC:
+De 18.5 a 24.99 normal.jpg
+Menos de 18.5 delgadez.jpg
+De 25 a 29.99 sobrepeso.jpg
+Mayor o igual a 30 obesidad.jpg
+
+Que se evalúa?
+1. Se deben utilizar recursos string para todos los textos. 18pts
+2. Se debe utilizar el atributo hint para los widget de tipo EditText. 18pts
+3. Se debe utilizar un listener para ejecutar la operación, NO USAR atributo onClick. 18pts
+4. Se debe utilizar un TextView para mostrar el resultado. 10pts.
+5. Se debe utilizar un ImageView para mostrar la imagen correspondiente de manera adecuada. 18pts
+6. Se debe utilizar un CheckBox para mostrar u ocultar la imagen utilizando un listener, NO USAR atributo onClick. 18pts
+
+
+Reglas:
+* No hablar con ningún compañero por ningún medio.
+* No copiar el código ni recibir ayuda de ningún tipo por ningún medio.
+* Hacer el ejercicio que le toca de acuerdo a las instrucciones arriba.
+
+
+
+Masa km, Estatura metros, 

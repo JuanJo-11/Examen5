@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="masa">MASA</string>
+    <string name="estatura">ESTATURA</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="conversor">Conversor</string>
+    <string name="ejemplo">Ejemplo</string>
+    <string name="name">Ejemplo</string>
+    <string name="imc">IMC</string>
+    <string name="j_imc">J IMC</string>
+</resources>
