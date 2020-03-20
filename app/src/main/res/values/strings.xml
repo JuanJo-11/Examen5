@@ -8,4 +8,6 @@
     <string name="name">Ejemplo</string>
     <string name="imc">IMC</string>
     <string name="j_imc">J IMC</string>
+    <string name="emergente">Emergente</string>
+    <string name="hold_click">Hold Click!!</string>
 </resources>
